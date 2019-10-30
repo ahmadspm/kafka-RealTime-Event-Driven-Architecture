@@ -1,0 +1,152 @@
+KAFKA RESOURCES 
+
+https://cloud.contentraven.com (kafka fundamentals course)
+https://www.udemy.com/course/apache-kafka-deep-dive-hands-on-using-javabuilt-in-scripts
+
+https://www.linkedin.com/learning/learn-apache-kafka-for-beginners
+
+https://www.udemy.com/course/build-streaming-applications-using-apache-kafka-and-scala/?couponCode=
+
+https://www.udemy.com/kafka-ksql/?couponCode=
+
+************ KAFKA IN AZURE*************
+
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-streams-api
+
+
+
+
+************* considerstions for Apache kafka data pipelines ********
+
+
+https://www.freecodecamp.org/news/what-to-consider-for-painless-apache-kafka-integration-df559e828876/
+
+
+*************** KAFKA IN JAVA**************
+
+http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html
+
+https://thepracticaldeveloper.com/2018/11/24/spring-boot-kafka-config/
+
+
+
+COMPARISON OF STREAM PROCESSING SYTEMS 
+
+https://www.javacodegeeks.com/2017/07/big-data-ingestion-flume-kafka-nifi.html
+
+
+
+************KSQL WORKSHOP************
+
+
+https://github.com/confluentinc/kafka-workshop
+
+https://download.oracle.com/otndocs/products/spatial/pdf/OOW2018_Query_Real-Time_Kafka_Streams_with_Oracle_SQL.pdf
+
+https://github.com/dnvriend/kafka-streams-test
+
+*********** MICRO-SERVICES ARCHITECURE AND KAFKA********
+
+
+https://www.youtube.com/watch?v=QmKbvPhK55g
+https://www.youtube.com/watch?v=3NEQV5mjKfY
+
+
+
+************* kafka producers****************
+
+https://kafka.apache.org/23/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html
+
+https://www.tutorialspoint.com/apache_kafka/apache_kafka_simple_producer_example.htm
+
+https://www.javaworld.com/article/3060078/big-data-messaging-with-kafka-part-1.html
+https://noti.st/rmoff/3tK7EV
+
+************** kafka performance optimzation************
+
+https://www.cloudera.com/documentation/kafka/latest/topics/kafka_performance.html
+https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1
+
+https://dzone.com/articles/data-streaming-made-easy-with-apache-kafka
+
+
+************ Graph visualziations from kafka***************
+
+
+https://www.confluent.io/blog/kafka-graph-visualizations
+
+https://www.confluent.io/blog/visualizations-on-apache-kafka-made-easy-with-ksql/
+
+https://dzone.com/articles/visualizations-on-apache-kafka-made-easy-with-ksql
+
+https://dzone.com/articles/data-streaming-made-easy-with-apache-kafka
+
+https://medium.com/outbrain-engineering/understanding-spark-streaming-with-kafka-and-druid-25b69e28dcb7
+
+https://www.confluent.de/blog/building-a-streaming-analytics-stack-with-apache-kafka-and-druid/
+
+https://blog.heroku.com/event-streams-kafka-redshift-metabase
+
+https://github.com/IBM/kafka-streaming-click-analysis
+https://www.youtube.com/watch?v=1tUbxCepfEk
+
+**** kibana .. visualizations *******
+
+https://medium.com/forsk-labs/real-time-weather-analysis-using-kafka-and-elk-pipeline-a849eb27017a
+
+**** RealTime Analytics DashBoard************
+
+https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka/
+
+
+*************kafka with python************
+
+https://rockset.com/blog/real-time-analytics-using-sql-on-streaming-data-kafka-rockset/...
+
+
+************** Machine learning with KSQL AND PYTHON ************
+
+https://eventil.com/events/pipelineai-kubeflow-tfx-gpu-tpu-spark-tensorflow-kubernetes-kafka-scikit-3d432327-afb8-4225-b3e1-d3e1a5cc7867/
+
+https://www.doag.org/formes/pubfiles/9940803/2018-NN-Kai_Waehner-New_Era_of_Stream_Processing_with_Apache_Kafka_s_Streams_API-Praesentation.pdf
+https://www.brighttalk.com/webcast/17289/362679/machine-learning-with-tensorflow-and-apache-kafka
+
+https://www.confluent.io/blog/machine-learning-with-python-jupyter-ksql-tensorflow
+
+https://static.rainfocus.com/oracle/oow17/sess/1491198833720001KwJc/PF/2017_10_JavaOne_Kafka_Streams_TensorFlow_H2O___Kai_Waehner_Confluent_1507068454765001Bjr8.pdf
+
+https://www.bigdataparis.com/documents/2019/Lundi-11-Mars-15h-CONFLUENT.pdf
+
+https://cdn.oreillystatic.com/en/assets/1/event/292/Unleashing%20Apache%20Kafka%20and%20TensorFlow%20in%20hybrid
+https://dzone.com/articles/streaming-machine-learning-pipeline-for-sentiment-1%20architectures%20Presentation.pdf?source=post_page---------------------------
+
+https://www.javacodegeeks.com/2019/01/kafka-tensorflow-data-scientists-python.html
+
+https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3201-2019.pdf
+https://bigdatadays.ru/2018/wp-content/uploads/2018/10/4-H1-Theofilos-Kakntousis-slides-min.pdf
+
+https://www.youtube.com/watch?v=HenBuC4ATb0
+
+https://dzone.com/articles/apache-kafka-ksql-tensorflow-for-data-scientists-v
+
+https://www.youtube.com/watch?v=vaB4IM6ySD0&list=PL7pBcJ870QHeNRBXdKirc4fdtbtbB5Xy-&index=3&t=0s
+
+************* kafka resoruces SAS-STREAMING ANALYTICS
+
+https://help.sap.com/doc/14f303db12f9419cbd9e61d00d7c9194/2.0.04/en-US/streaming_adapters_guide.pd
+
+
+************** KAFKA MONITORS AND MANAGERS GUI BASED MANAGEMENT***************
+
+https://github.com/linkedin/cruise-control
+
+https://hub.docker.com/r/tchiotludo/kafkahq
+https://github.com/HomeAdvisor/Kafdrop
+
+https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Streams-Messaging-Manager-Datasheet_180821.pdf
+https://github.com/linkedin/kafka-monitor
+
+https://stackoverflow.com/questions/49276785/monitoring-ui-for-apache-kafka-kafka-manager-vs-kafka-monitor/49292872
+
+https://www.kadeck.com/variants/
+
