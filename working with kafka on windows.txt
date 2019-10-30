@@ -1,0 +1,90 @@
+curl -L https://cnfl.io/cli | sh -s -- -b /C/WLS/confluent-5.3.1/bin
+
+/mnt/C/WLS/confluent-5.3.1/bin
+
+
+cp -avr /mnt/C/WLS/confluent-5.3.1/bin  /tmp/backup/
+
+************* Elastic Serch Credentials @Bonsai io ********************
+
+https://2og2jva7ml:r9idt4p1i6@cinglevue-elasticsea-5974344304.ap-southeast-2.bonsaisearch.net:443
+
+
+
+
+************starting kafka server on windows - These settings for my local machine **************
+
+
+C:\Apache-kafka\kafka_2.11-2.2.1>bin\windows\kafka-topics.bat
+
+C:\Apache-kafka\kafka_2.11-2.2.1>.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+C:\Apache-kafka\kafka_2.11-2.2.1>.\bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+
+**************** starting kafka producer and creating topics***************
+kafka-topics --zookeepr 127.0.01:2181 --topic --2nd topic
+
+C:\Apache-kafka\kafka_2.11-2.2.1\bin\windows>kafka-topics --bootstrap-server localhost:9092 --topic third_topic --create --partitions 3 --replication-factor 1
+********* keep generating topics from producer****************
+kafka-console-producer --broker-list 127.0.0.1:9092 --topic third_topic
+
+************* describe topic detials **********
+
+kafka-topics --bootstrap-server localhost:9092 --topic third_topic --describe
+
+*************** listing topics through producer***************
+C:\Apache-kafka\kafka_2.11-2.2.1\bin\windows>kafka-topics --bootstrap-server localhost:9092 --list
+
+**************  starting kafka consumer and consumig topics from producer****************
+
+C:\Apache-kafka\kafka_2.11-2.2.1\bin\windows>kafka-console-consumer --bootstrap-server localhost:9092 --topic first_topic
+
+******************** kafka with docker compose***************
+
+********* kafka console consumer************
+kafka-console-consumer --bootstrap-server localhost:9092 --topic thrid_topic --group my-frist application
+
+
+https://github.com/simplesteph/kafka-stack-docker-compose (Single and multiple brokers)
+
+https://hub.docker.com/r/wurstmeister/kafka/
+
+https://github.com/confluentinc/cp-docker-images/blob/5.1.2-post/examples/kafka-cluster/docker-compose.yml
+
+https://www.slideshare.net/BlueDataInc/best-practices-for-running-kafka-on-docker-containers
+
+
+************ creating a new topic with Twitter message title **********
+
+kafka-topics --bootstrap-server localhost:9092 --topic twitter_realtime_tweets --create --partitions 8 --replication-factor 1
+
+kafka-topics --bootstrap-server localhost:9092 --topic twitter realtime_tweets --create --partitions 8 --replication-factor 1
+
+*************Consume Twitter tweets from producer in kafka************
+
+\Apache-kafka\kafka_2.11-2.2.1\bin\windows>kafka-console-consumer --bootstrap-server localhost:9092 --topic twitter_realtime_tweets
+
+
+
+************* producer in console******************
+kafka-console-producer --broker-list 127.0.0.1:9092 --topic twitter_realtime_tweets
+
+*********** Tweets console consumer **********
+
+kafka-console-consumer --bootstrap-server localhost:9092 --topic twitter_realtime_tweets --group raltime_tweets_toelasticsearch
+
+
+
+*************** elastic serch credentials for cloud************
+
+Username
+elastic
+Password
+G64dAgZGZTtUitzumt47g6P9
+
+
+
+************* stop all the containers in windows******
+
+FOR /f "tokens=*" %i IN ('docker ps -q') DO docker stop %i
+
