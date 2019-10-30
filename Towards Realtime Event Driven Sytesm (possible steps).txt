@@ -1,0 +1,58 @@
+Included plug-ins:
+
+1.  NppExport v0.2.8 (32-bit x86 only)
+2.  Converter 4.2.1
+3.  Mime Tool 2.5
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.1
+
+*************** Next steps towards Enhancing Systems Architecture (Virtuoso)**************
+
+
+  Based on Sensitivity points, Risks and Non- Risks Identify plus points of Existing Architecture
+  
+  Define a criteria for Real-Time Event Driven System Architecture 
+  
+   -- Define Sub criteria for Events Ingestion Tools 
+		-- Evaluate 2 open source and 2 commercial platforms for Events Ingestion
+	-- Identify ways and mechanisms for doing simple and complex events processing
+			--Event Driven Architecture Topologies 
+					-- Core Topologies 
+						
+			-- in the mean while define and establish simple events and complex events within Virtuoso
+			-- Identify complex events processing engines 
+	-- Identify and evaluate suitable architecture style across the pipeline 
+	-- Identify and evaluate suitable architectural patterns for overall pipeline 
+	--  Identify Real-time - Analytics types in conjunction with simple events and complex events for Virtuoso
+	-- Ways and Mechanisms for Real-Time Data Storage and retention  
+	-- Identify tool-sets for Real-Time Analytics 
+	-- Handling Time-series Data within Kafka and from Kafka to permanent stores 
+		-- Identify use-cases for Real-Time Machine Learning
+	-- Real-Time Predictive Analytics in Education 
+	
+	-- How  in Architecture Real-Time Machine Learning will fit?
+	-- Try to map key Quality Attributes identified in phase of the project to overall architecture at various levels
+	-- How existing Architecture core components will work together with event driven style 
+	-- Identification of various connector APIs 
+	-- Kubernetes, dockers containers, micro-services and Real-Time event processing
+	-- Cloud architecture and kubernetes relationship in-terms of Real-Time Event Processing
+	-- How Data Democratization will be ensured across the Data Pipeline?
+	
+	**********Define a Selection Criteria for various streaming tools and technology************
+	
+	
+	
+	
+************ Real-Time Event Driven stream Analytics on Cloud platforms *********************
+			-- AWS (Kinesis Data Streams+ Kinesis Data FireHouse+Kinesis Data Analytics)
+			
+			-- Google (Google BigTable, Cloud Big Query, Cloud Data Flow) 
+			
+			-- Azure (Events Hubs, Azure HDInsight, CosmoDB)
+			-- IBM (
+			
+			sudo apt-get install docker-ce=<5:19.03.2~3-0~ubuntu-bionic> docker-ce-cli=<5:19.03.2~3-0~ubuntu-bionic> containerd.io
+			
+			5:19.03.2~3-0~ubuntu-bionic
