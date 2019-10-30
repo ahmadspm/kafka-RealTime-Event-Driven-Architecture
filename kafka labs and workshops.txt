@@ -1,0 +1,19 @@
+****************** kafka hands on workships and labs *****************
+
+
+https://ibm-cloud-architecture.github.io/refarch-eda/training/eda-skill-journey/
+
+
+https://github.com/MaartenSmeets/kafka-workshop
+
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-get-started
+
+
+https://azure.microsoft.com/en-au/blog/processing-trillions-of-events-per-day-with-apache-kafka-on-azure/
+
+
+https://ibm-cloud-architecture.github.io/refarch-eda/training/eda-skill-journey/ ( A very good hands on kafka)
+
+good kafka lab
+
+https://github.com/SciSpike/kafka-lab/tree/master/labs
