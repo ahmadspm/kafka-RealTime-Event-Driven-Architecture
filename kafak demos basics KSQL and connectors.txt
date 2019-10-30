@@ -1,0 +1,53 @@
+
+************* Use the Apache Kafka Producer and Consumer APIs**********
+
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-producer-consumer-api
+
+https://github.com/TechPrimers/spring-boot-kafka-producer-example [https://www.youtube.com/watch?v=NjHYWEV_E_o]
+
+
+
+
+************* KAFKA AND KSQL DEMOS***************
+
+
+
+https://github.com/confluentinc/demo-scene/blob/master/ksql-workshop/ksql-workshop.adoc
+
+https://github.com/confluentinc/examples/
+
+******** all core examples and demos***********
+
+https://github.com/confluentinc/demo-scene
+
+************* KAFAK OVERALL DEMOS **************
+
+
+https://github.com/confluentinc/
+
+
+************** live dashboard using apache kafka*************
+
+https://github.com/sulthan309/Live-Dashboard-using-Kafka-and-Spring-Websocket
+
+https://blog.scottlogic.com/2017/10/13/MetOfficeKafka.html
+
+https://blog.heroku.com/event-streams-kafka-redshift-metabase
+
+https://www.ebi.ac.uk/about/technology/2017/09/live-dashboard-kafka-streaming-api/
+
+https://medium.com/@kavimaluskam/start-your-real-time-pipeline-with-apache-kafka-39e30129892a 
+
+https://developers.redhat.com/blog/2019/06/18/building-apache-kafka-streams-applications-using-red-hat-amq-streams-part-2/
+
+https://medium.com/forsk-labs/real-time-weather-analysis-using-kafka-and-elk-pipeline-a849eb27017a
+
+https://rockset.com/blog/real-time-analytics-using-sql-on-streaming-data-kafka-rockset/
+
+*************** streaming data pipeline confluent***********
+
+https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/
+
+
+https://www.baeldung.com/kafka-spark-data-pipeline
+
