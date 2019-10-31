@@ -38,9 +38,12 @@ This is an ongoing project with multiple phases. It aims to provide detailed ins
    - Think how Service oriented Architecture Styles like RESTful and Microservices can be applied across architectural pipelines. 
    - What are some emerging Architectural styles and patterns in the context of Real-Time Stream Processing?
    - How Saga Architectural pattern can be a game change? 
-   - How Stream Processing Frameworks like Fink, Flume, Storm and Spark can make a difference in this landscape?
+   - How Stream Processing Frameworks like Fink, Flume, Storm and Spark can make a difference in this landscape as compared to KAFKA streams and KSQL?
+    - How various Event hubs (These are unique or custom soultions sometimes integrated with Kafka) are provided by Microsoft IBM, Google and Amazon. 
+    - How cloude based googel pub/ sub and Amazon Kinesis - Amazon Web Services are transforming Real-Time Event Driven Archiecutres?
+    - How Microservices, Docker Containers, Kubernetes and Cloud infrastructure based deployments are reshaping Real-Time Event Driven Architecutres?
    - How pulsar and NAST can be compared with KAFKA eco systems?
-   - How Messaging Systems like pub/sub Message Queues can co-exist?
+   - How Messaging Systems like pub/sub (KAFKA at large) Message Queues (RabbitMQ,ActiveMQ ZeroMQ,OpenMP) can co-exist?
    
 
 There are many aspects to consider while transforming a big data batch processing architecture into Real-Time Stream processing Architecture. Go slow with will defined plans and keep it simple. 
