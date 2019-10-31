@@ -1,0 +1,5 @@
+***************** Manual Install using Systemd on Ubuntu and Debian***************
+
+https://docs.confluent.io/current/installation/installing_cp/deb-ubuntu.html#systemd-ubuntu-debian-install
+
+
