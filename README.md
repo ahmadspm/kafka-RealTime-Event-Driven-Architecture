@@ -1,4 +1,4 @@
-# kafka-RealTime-Event-Driven-Architecture
+# Designing Real-Time-Event-Driven-Architecture - A Research driven project with key emphasis on Architectural styles and patterns with practical implementations and thier impacts on achieving core Quality Attributes of large scale system. 
 
 
 ************** Transforming a Batch oriented large data pipe-line into Real-time Event Driven pipe-line***********
