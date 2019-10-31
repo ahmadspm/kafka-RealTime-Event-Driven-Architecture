@@ -28,6 +28,7 @@ This is an ongoing project with multiple phases. It aims to provide detailed ins
  - Start with basics 
  - Do some readings about Event Driven Systems, Events types, streams, Streams processing and complex events processing.
  - Get to know about various architectural styles and patterns useful for events stream processing.
+ - Get some insights through research papers industry trends about Big Data Architectures in the context of batch oriented systems and Real-Time Stream processing Systems.
   - Evaluate existing Messaging Systems for event driven architectures.
    - Evaluate Real-Time Event Streams Processing Frameworks both open source and Commercial. 
    - Select one of the suitable Events ingestion and processing framework / tool that meets your needs. 
