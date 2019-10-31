@@ -43,7 +43,7 @@ This is an ongoing project with multiple phases. It aims to provide detailed ins
     - How various Event hubs (These are unique or custom soultions sometimes integrated with Kafka) are provided by Microsoft IBM, Google and Amazon. 
     - How cloude based googel pub/ sub and Amazon Kinesis - Amazon Web Services are transforming Real-Time Event Driven Archiecutres?
     - How Microservices, Docker Containers, Kubernetes and Cloud infrastructure based deployments are reshaping Real-Time Event Driven Architecutres?
-   - How pulsar and NAST can be compared with KAFKA eco systems?
+   - How pulsar and NATS can be compared with KAFKA eco systems?
    - How Messaging Systems like pub/sub (KAFKA at large) Message Queues (RabbitMQ,ActiveMQ ZeroMQ,OpenMP) can co-exist?
    
 
