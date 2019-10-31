@@ -1,0 +1,66 @@
+
+********* A step by step guid for events streaming with REST API into kafka producer************
+
+https://ibm.github.io/event-streams/connecting/rest-api/
+
+https://github.com/ibm-cloud-architecture/refarch-kc (A good source of understanding event driven architecutre)
+
+************* Tutorial - Introduction to streaming application development ***********
+
+https://docs.confluent.io/current/tutorials/examples/microservices-orders/docs/index.html
+
+************* capturing events for website activity monitoring from live application**********
+
+
+https://developer.ibm.com/tutorials/realtime-visitor-analysis-with-kafka/
+
+https://medium.com/@fbeltrao/azure-event-ingestion-with-event-hub-data-lake-and-sql-database-part-i-f432f8f6196b
+
+https://medium.com/@jchamath/real-time-activity-tracking-with-kafka-f07ce56da90e
+
+*************How to use Apache Kafka to transform a batch pipeline into a real-time one **************
+
+https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
+
+
+******* IBM DB2 EVENT STORE EXAMPLE **********
+
+
+https://github.com/IBM/db2-event-store-taxi-trips/blob/master/README.md
+
+
+
+************* Implementing Events Sourcing using Java**************
+
+
+https://stackoverflow.com/questions/54268030/how-do-i-implement-event-sourcing-using-kafka?rq=1
+
+
+********* A very good example using apahe kafka and live events sources *********
+
+
+https://lenadroid.github.io/posts/distributed-data-streaming-action.html
+
+
+********Reading events from Restful API****************
+
+https://blog.heroku.com/service-oriented-architecture-rails-kafka
+
+************** EVENTS STREAMING WITH SPRING FRAMEWORK************
+
+
+https://www.confluent.io/blog/apache-kafka-spring-boot-application
+
+
+************* Getting your feet wet with kafka streaming************
+
+https://www.confluent.io/blog/stream-processing-part-1-tutorial-developing-streaming-applications
+
+
+*************Microservice Messaging: The Event That Changed Everything*********
+
+https://dzone.com/articles/microservice-messaging-the-event-that-changed-ever
+
+***********https://github.com/confluentinc/qcon-microservices************
+
+https://static.rainfocus.com/oracle/oraclecode18/sess/1523054308218001XeLm/PF/microservices-with-kafka-ecosystem_1527748535903001rXOu.pdf
