@@ -1,4 +1,5 @@
-# Designing Real-Time-Event-Driven-Architecture - A Research driven project with key emphasis on Architectural styles and patterns with practical implementations and their impacts on achieving core Quality Attributes of large scale system. 
+# Real-Time-Event-Driven-Architecture - A Research-driven project with crucial emphasis on Architectural styles and patterns with practical implementations for achieving core Quality Attributes of a large scale system.
+ 
 
 
 ************** Transforming a Batch oriented large data pipe-line into Real-time Event Driven pipeline***********
